@@ -37,7 +37,7 @@ ___
 ### 💻 ตัวอย่างเว็บไซต์
 
 1. หน้าแรก
-![index]()
+![index](https://github.com/Adisak-KS/Workshop-Image-Gallery-Popup/blob/main/previews/pre-1.png)
 
 2. แสดงรูปภาพ
-![index]()
+![index](https://github.com/Adisak-KS/Workshop-Image-Gallery-Popup/blob/main/previews/pre-2.png)
